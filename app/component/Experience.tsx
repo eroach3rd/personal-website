@@ -22,7 +22,7 @@ export default function Experience() {
     },
     {
       company: "Deloitte",
-      role: "Business Technology Analyst",
+      role: "Technology Consultant",
       description: "Gathered systems requirements, designed and implemented state exchanges for Medicaid. Developed skills in translating complex requirements into technical solutions."
     }
   ]
