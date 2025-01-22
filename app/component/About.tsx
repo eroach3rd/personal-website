@@ -4,11 +4,7 @@ export default function About() {
       <div className="container mx-auto px-6">
         <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
         <p className="text-lg text-gray-700 max-w-3xl mx-auto">
-          As a Strategy & Operations Manager transitioning to Product Management, 
-          I bring a unique perspective to product development. My experience in 
-          influencing product roadmaps, problem-solving, and cross-functional 
-          collaboration, combined with my enthusiasm for product management, 
-          positions me to create impactful products that solve real user needs.
+          I’m a Product Management enthusiast, a proud father of an infant, and passionate about workforce development, education advocacy, and creating opportunities for underrepresented communities. My interests include nurturing plants, hip-hop music festivals, and cheering on the Mets and Knicks. Through my career, I’ve cultivated a deep understanding of how to connect people to opportunities, whether through mentorship, education, or innovative products.
         </p>
       </div>
     </section>
