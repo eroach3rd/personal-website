@@ -3,22 +3,27 @@ export default function Experience() {
     {
       company: "Indeed",
       role: "Strategy & Operations Manager",
-      description: "Worked directly with Product Managers to synthesize customer feedback, research competitor trends, and lead prioritization exercises for product roadmaps. Conducted a stretch PM project, defining problem statements and solutions, designing feature changes, and collaborating with UX, Engineering, and Legal teams."
+      description: "Worked directly with Product Managers to synthesize customer feedback, research competitor trends, and lead prioritization exercises for product roadmaps. Lead a stretch PM project, defining problem statements and solutions, designing feature changes, and collaborating with UX, Engineering, and Legal teams."
     },
     {
       company: "PeopleGrove",
-      role: "Strategy & Operations Manager",
-      description: "Collaborated with Product Managers to improve features connecting college students to mentors. Analyzed market trends and user feedback to inform product decisions."
+      role: "Product Strategy Manager",
+      description: "Collaborated with Product Managers to improve features that connect college students to mentors. Analyzed market trends and user feedback to inform product decisions."
+    },
+    {
+      company: "Purro",
+      role: "Co-Founder and CEO",
+      description: "Built an MVP for a mentorship platform to help underrepresented students find mentors and discover new career paths."
+    },
+    {
+      company: "Microsoft",
+      role: "Product Marketing ManagerIntern",
+      description: "Mapped user journeys through cloud usage maturity, providing upsell opportunities through user behavior insights."
     },
     {
       company: "Deloitte",
       role: "Business Technology Analyst",
       description: "Gathered systems requirements, designed and implemented state exchanges for Medicaid. Developed skills in translating complex requirements into technical solutions."
-    },
-    {
-      company: "Microsoft",
-      role: "Intern",
-      description: "Mapped user journeys through cloud usage maturity, gaining insights into user behavior and needs in a tech product environment."
     }
   ]
 
